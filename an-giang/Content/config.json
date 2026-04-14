@@ -1,5 +1,6 @@
 {
 	"ApplicationName": "Việc Làm An Giang",
+	"IsReview":true,
 	"Logo": "https://viec-lam-vn.github.io/an-giang/Content/logo.png",
 	"Images": {
 		"Background": [
