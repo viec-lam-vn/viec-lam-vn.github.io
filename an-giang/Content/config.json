@@ -3,18 +3,23 @@
   "IsReview": true,
   "Logo": "https://viec-lam-vn.github.io/an-giang/Content/logo.png",
   "Icon": "https://viec-lam-vn.github.io/an-giang/Content/icon.png",
-  "Images": {
-    "Background": [
+  "Images": [
       "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/1.png",
       "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/2.png",
-      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/3.png"
+      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/3.png",
+      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/4.png",
+      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/5.png",
+      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/6.png",
+      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/7.png",
+      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/8.png",
+      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/9.png",
+      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/10.png",
+      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/11.png",
+      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/12.png",
+      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/13.png",
+      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/14.png",
+      "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/15.png"
     ],
-    "Logo": [
-      "https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/1.png",
-      "https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/2.png",
-      "https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/3.png"
-    ]
-  },
   "Welcome": [
     {
       "Title": "Chào mừng bạn đến với An Giang",
