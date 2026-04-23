@@ -3,6 +3,40 @@
   "IsReview": true,
   "Logo": "https://viec-lam-vn.github.io/an-giang/Content/logo.png",
   "Icon": "https://viec-lam-vn.github.io/an-giang/Content/icon.png",
+  "SocialNetwork":[
+	{
+		"Name":"Facebook",
+		"Display":"Trung tâm Dịch vụ việc làm tỉnh An Giang"
+		"Icon":"https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/facebook.png",
+		"Url":"https://www.facebook.com/ttvlangiang"
+	},
+	{
+		"Name":"Zalo",
+		"Display":"Trung tâm Dịch vụ việc làm tỉnh An Giang"
+		"Icon":"https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/zalo.png",
+		"Url":"https://www.facebook.com/ttvlangiang"
+	},
+	{
+		"Name":"Website",
+		"Display":"Trung tâm Dịch vụ việc làm tỉnh An Giang"
+		"Icon":"https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/www.png",
+		"Url":"https://www.ttvlangiang.gov.vn"
+	}
+  ],
+  "SupportContract":[
+	  {
+		"Type":"Hỗ trợ nhà tuyển dụng",
+		"Phone":"0866.11.22.00"		,
+		"Email":"phongttttag@gmail.com"
+		"Address":""
+	  },
+	  {
+		"Type":"Hỗ trợ người tìm việc",
+		"Phone":"0866.11.22.00"		,
+		"Email":"gtvlag@gmail.com"
+		"Address":""
+	  }
+  ]
   "Logos":[
       "https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/1.png",
       "https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/2.png",
