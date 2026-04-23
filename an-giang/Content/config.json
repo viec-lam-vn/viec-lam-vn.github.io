@@ -6,19 +6,19 @@
   "SocialNetwork":[
 	{
 		"Name":"Facebook",
-		"Display":"Trung tâm Dịch vụ việc làm tỉnh An Giang"
+		"Display":"Trung tâm Dịch vụ việc làm tỉnh An Giang",
 		"Icon":"https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/facebook.png",
 		"Url":"https://www.facebook.com/ttvlangiang"
 	},
 	{
 		"Name":"Zalo",
-		"Display":"Trung tâm Dịch vụ việc làm tỉnh An Giang"
+		"Display":"Trung tâm Dịch vụ việc làm tỉnh An Giang",
 		"Icon":"https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/zalo.png",
 		"Url":"https://www.facebook.com/ttvlangiang"
 	},
 	{
 		"Name":"Website",
-		"Display":"Trung tâm Dịch vụ việc làm tỉnh An Giang"
+		"Display":"Trung tâm Dịch vụ việc làm tỉnh An Giang",
 		"Icon":"https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/www.png",
 		"Url":"https://www.ttvlangiang.gov.vn"
 	}
@@ -26,7 +26,7 @@
   "SupportContract":[
 	  {
 		"Type":"Hỗ trợ nhà tuyển dụng",
-		"Phone":"0866.11.22.00"		,
+		"Phone":"0866.11.22.00",
 		"Email":"phongttttag@gmail.com"
 		"Address":""
 	  },
