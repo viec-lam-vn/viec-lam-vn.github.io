@@ -3,6 +3,16 @@
 	"IsReview": true,
 	"Logo": "https://viec-lam-vn.github.io/an-giang/Content/logo.png",
 	"Icon": "https://viec-lam-vn.github.io/an-giang/Content/icon.png",
+	"Notification":[
+		{
+			"Name":"Thông báo",
+			"Content":"Chào mừng bạn đã quay lại"
+		},
+		{
+			"Name":"Thông báo",
+			"Content":"Chúc bạn một ngày mới tốt lành"
+		}
+	],
 	"SocialNetwork": [
 		{
 			"Name": "Facebook",
