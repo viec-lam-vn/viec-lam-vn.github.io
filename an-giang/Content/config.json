@@ -183,5 +183,6 @@
 			"Description": "Cập nhật thông tin tuyển dụng mới nhất mỗi ngày. Bắt đầu hành trình mới ngay hôm nay!",
 			"Image": "https://viec-lam-vn.github.io/an-giang/Content/Images/Background/3.png"
 		}
-	]
+	],
+	"Css":".cwbb__header,.vbanner,.menu-top,.navbar-static-top,#box_chat_div,#chat-web-manage,.title_text_line,#scroll-top,.breadcrumb-box,footer,.copyright, .download-app{display:none!important}"
 }
