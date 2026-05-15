@@ -188,8 +188,8 @@
 	"TermsofUse":"<div class=\"card\"><h1>ĐIỀU KHOẢN SỬ DỤNG</h1><p><em>Cập nhật lần cuối: 14 tháng 05, 2026</em></p><p>Chào mừng bạn đến với <strong>Việc làm An Giang</strong>. Việc bạn sử dụng ứng dụng đồng nghĩa với việc bạn đồng ý với các điều khoản sau đây:</p><h2>1. Tài khoản Người dùng</h2><p>Bạn có trách nhiệm bảo mật mật khẩu và tài khoản của mình. Mọi hoạt động diễn ra dưới tên tài khoản của bạn sẽ thuộc trách nhiệm của bạn.</p><h2>2. Quy định về Nội dung</h2><ul><li><strong>Ứng viên:</strong> Phải cung cấp thông tin bằng cấp, kinh nghiệm làm việc đúng sự thật.</li><li><strong>Nhà tuyển dụng:</strong> Không được đăng tin tuyển dụng thu phí người lao động trái quy định pháp luật hoặc các công việc không lành mạnh.</li><li>Không được tải lên các tệp tin chứa mã độc hoặc virus gây hại cho hệ thống.</li></ul><h2>3. Quyền hạn của Ban Quản Trị</h2><p>Chúng tôi có quyền tạm khóa hoặc xóa vĩnh viễn các tài khoản vi phạm quy định, đăng tin rác hoặc có dấu hiệu lừa đảo người lao động mà không cần báo trước.</p><h2>4. Miễn trừ trách nhiệm</h2><p>Ứng dụng là nền tảng kết nối. Chúng tôi không can thiệp vào quá trình phỏng vấn, thử việc hoặc thanh toán lương giữa các bên. Người dùng nên tự kiểm chứng thông tin trước khi xác lập các giao dịch dân sự.</p><h2>5. Thay đổi điều khoản</h2><p>Chúng tôi có thể cập nhật điều khoản này theo thời gian để phù hợp với quy định pháp luật. Việc bạn tiếp tục sử dụng ứng dụng đồng nghĩa với việc chấp nhận các thay đổi đó.</p><div class=\"footer\">&copy; 2026 Việc làm An Giang - Kết nối cơ hội, kiến tạo tương lai.</div></div>",
 	"Css":".cwbb__header,.vbanner,.menu-top,.navbar-static-top,#box_chat_div,#chat-web-manage,.title_text_line,#scroll-top,.breadcrumb-box,footer,.copyright, .download-app{display:none!important}",
 	"Map":{
-		"latitude":9.972720843863938,
-		"longitude":105.09727626665777,
-		"titleMarker":"Việc làm An Giang"
+		"Latitude":9.972720843863938,
+		"Longitude":105.09727626665777,
+		"TitleMarker":"Việc làm An Giang"
 	}
 }
