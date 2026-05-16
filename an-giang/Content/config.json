@@ -11,40 +11,24 @@
 		{
 			"Name":"Thông báo",
 			"Content":"Chúc bạn một ngày mới tốt lành"
-		}
-	],
-	"SocialNetwork": [
-		{
-			"Name": "Facebook",
-			"Display": "Trung tâm Dịch vụ việc làm tỉnh An Giang",
-			"Icon": "https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/facebook.png",
-			"Url": "https://www.facebook.com/ttvlangiang"
 		},
 		{
-			"Name": "Zalo",
-			"Display": "Trung tâm Dịch vụ việc làm tỉnh An Giang",
-			"Icon": "https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/zalo.png",
-			"Url": "https://www.facebook.com/ttvlangiang"
-		},
-		{
-			"Name": "Website",
-			"Display": "Trung tâm Dịch vụ việc làm tỉnh An Giang",
-			"Icon": "https://viec-lam-vn.github.io/an-giang/Content/Images/Logo/www.png",
-			"Url": "https://www.ttvlangiang.gov.vn"
+			"Name":"Thông báo",
+			"Content":"Chúc bạn tìm công việc thuận lơi"
 		}
 	],
 	"SupportContract": [
 		{
 			"Type": "Hỗ trợ nhà tuyển dụng",
-			"Phone": "0866.11.22.00",
-			"Email": "phongttttag@gmail.com",
-			"Address": ""
+			"Phone": "038.66.11.00.30",
+			"Email": "tranhuutung92@gmail.com",
+			"Address": "Số 1 ngách 22/5 ngõ 22 phố Lương Khánh Thiện phường Tương mai, Hà Nội"
 		},
 		{
 			"Type": "Hỗ trợ người tìm việc",
-			"Phone": "0866.11.22.00",
-			"Email": "gtvlag@gmail.com",
-			"Address": ""
+			"Phone": "038.66.11.00.30",
+			"Email": "tranhuutung981992@gmail.com",
+			"Address": "Số 1 ngách 22/5 ngõ 22 phố Lương Khánh Thiện phường Tương mai, Hà Nội"
 		}
 	],
 	"Logos": [
