@@ -1,5 +1,9 @@
 {
 	"ApplicationName": "Việc Làm An Giang",
+	"BaseUrl":"https://vieclamnamdinh.gov.vn/api/app/",
+	"BaseMediaUrl":"https://file.vieclamnamdinh.gov.vn",
+	"Username":"eportal",
+	"Password":"CT03-M14IC-PO22SE-0SOFT4-A0P1J",
 	"IsReview": true,
 	"Logo": "https://viec-lam-vn.github.io/an-giang/Content/logo.png",
 	"Icon": "https://viec-lam-vn.github.io/an-giang/Content/icon.png",
